@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Nicer-Monitoring
 excerpt: 
-date: 2022
+date: 2022-06-10
 venue: 'The Astrophysical Journal'
 paperurl: 'http://academicpages.github.io/files/nicer.pdf'
 citation: 'Orio, M., et. al (incl Giese, M.) (2009). &quot;NICER Monitoring of Supersoft X-ray Sources.&quot; <i>ApJ</i>. 932(1).'
